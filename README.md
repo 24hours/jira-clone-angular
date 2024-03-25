@@ -2,7 +2,7 @@
 
 > Phase two will not be completed as planned. Both [Chau Tran][chau] and I was too busy with some other commitments. View our [working in progress Graph QL branch][gql].
 >
-> You can check the storybook collection of components I wrote for Jira Clone ➡ [jira-storybook.trungk18.com](https://jira-storybook.trungk18.com/) 📕
+> You can check the storybook collection of components I wrote for My Jira Clone ➡ [jira-storybook.trungk18.com](https://jira-storybook.trungk18.com/) 📕
 >
 > Thanks for your continuous support. Stay tuned! :muscle:
 
@@ -29,7 +29,7 @@ Check out the **live demo** -> https://jira.trungk18.com
 Storybook helps you build UI components in isolation from your app's business logic, data, and context.
 That makes it easy to develop hard-to-reach states. Save these UI states as **stories** to revisit during development, testing, or QA.
 
-### Jira Clone Storybook
+### My Jira Clone Storybook
 
 This is the collection of components that I wrote for [jira.trungk18.com][jira], includes:
 
